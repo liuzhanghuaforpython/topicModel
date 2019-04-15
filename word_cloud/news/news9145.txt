@@ -1,0 +1,21 @@
+
+
+版权声明：本文版权为网易汽车所有，转载请注明出处。
+
+
+网易汽车7月27日报道 著名的纽博格林北环赛道圈速榜近日又发生了变化，兰博基尼Aventador SVJ以6分44秒97的成绩成为最快量产车，新车将于今年夏末正式发布。
+相关信息：
+
+1.刷新圈速记录的Aventador SVJ由兰博基尼官方测试车手Marco Mapelli驾驶，此次挑战由兰博基尼研发团队主导，并获得了倍耐力技师及车手团队的大力支持。2.在封闭测试期间，Aventador SVJ车辆配备内外摄像头及全方位遥测系统，并由Remak的专业人员利用Vbox-Racelogic采集系统对时间及车辆GPS定位进行严格把关。3.这台兰博基尼Aventador SVJ使用轻量化材料，重量功率比达到1.98千克/马力，搭载ALA 2.0主动空气动力学系统，将于今年八月在美国加州蒙特雷汽车周发布。4.整体结构重新设计，转向系统重新调校，搭载6.5升V12自然吸气发动机，四驱系统、后轮转向系统和电子车身稳定系统均有强化，标配全新倍耐力P Zero Corsa轮胎。↓Aventador SVJ挑战纽北第一视角
+	
+	#endText .video-info a{text-decoration:none;color: #000;}
+	#endText .video-info a:hover{color:#d34747;}
+	#endText .video-list li{overflow:hidden;float: left; list-style:none; width: 132px;height: 118px; position: relative;margin:8px 3px 0px 0px;}
+	#entText .video-list a,#endText .video-list a:visited{text-decoration:none;color:#fff;}
+	#endText .video-list .overlay{text-align: left; padding: 0px 6px; background-color: #313131; font-size: 12px; width: 120px; position: absolute; bottom: 0px; left: 0px; height: 26px; line-height: 26px; overflow: hidden;color: #fff; }
+	#endText .video-list .on{border-bottom: 8px solid #c4282b;}
+	#endText .video-list .play{width: 20px; height: 20px; background:url(http://static.ws.126.net/video/img14/zhuzhan/play.png);position: absolute;right: 12px; top: 62px;opacity: 0.7; color:#fff;filter:alpha(opacity=70); _background: none; _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://static.ws.126.net/video/img14/zhuzhan/play.png"); }
+	
+	#endText .video-list a:hover .play{opacity: 1;filter:alpha(opacity=100);_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://static.ws.126.net/video/img14/zhuzhan/play.png");}
+	
+	

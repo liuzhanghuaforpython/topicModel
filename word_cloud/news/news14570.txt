@@ -1,0 +1,11 @@
+原标题：BlackBerry QNX 技术现已嵌入逾1.2亿台汽车
+　　近日， BlackBerry 有限公司 (纽交所代码： BB; 多伦多证交所： BB)宣布，截至目前，嵌入QNX软件并已投入使用的汽车数量已超过1.2亿台1。众多汽车原始设备制造商(OEM)和一级供应商都在其高级驾驶辅助系统、数字仪表盘、连接模块、免提系统和信息娱乐系统中使用了BlackBerry QNX技术，包括了奥迪、宝马、福特、通用、本田、现代、捷豹路虎、起亚、玛莎拉蒂、梅赛德斯-奔驰、保时捷、丰田和大众等品牌。
+　　“三年前，有6000万辆汽车使用BlackBerry QNX技术。如今，随着BlackBerry逐步取得全球领先的汽车制造商、一级供应商以及芯片制造商的充分信任，这一数字已经实现翻番，”BlackBerry执行董事长兼CEO程守宗说。“随着汽车越来越依靠软件驱动，我们的客户和合作伙伴依靠BlackBerry QNX技术来为其提供经过安全认证、安全可靠的技术平台，以此为基础来构建汽车行业的未来。”
+　　BlackBerry QNX 技术包括QNX Neutrino操作系统、QNX ADAS平台、QNX安全操作系统、QNX CAR信息娱乐平台、QNX Hypervisor 2.0以及 QNX声学中间件。BlackBerry通过最高级别汽车功能安全认证ISO 26262 ASIL D，拥有数十年为汽车和其他行业的任务关键型嵌入式系统提供支持的丰富经验。作为汽车行业软件的领导者，BlackBerry的软件经过安全认证、安全可靠。BlackBerry在安全、防护和持续创新方面的丰富经验赢得了与百度、德尔福、日本电装、英伟达、高通、伟世通、捷豹路虎等公司在汽车设计方面的合作。
+　　1计算方法
+　　BlackBerry与行业研究分析公司Strategy Analytics合作，根据汽车市场上销售的QNX产品数量以及包含QNX产品和技术的汽车数量来验证QNX的部署数量。在汽车电子控制单元(报价 参数 图片 论坛)(ECU)中集成和使用的绝大多数QNX软件产品均按照单位收取授权使用费。
+　　有关BlackBerry产品和汽车行业服务的更多信息请访问BlackBerry.com
+　　关于BlackBerry
+　　BlackBerry 专注企业级软件和服务，致力于安全管理物联网终端。公司现有端到端企业物联网平台BlackBerry Secure，包含了企业沟通协作软件和各类通过安全认证的嵌入式解决方案。
+　　BlackBerry 成立于 1984 年，总部位于安大略省滑铁卢，业务遍及北美、欧洲、亚洲、澳大利亚、中东、拉丁美洲和非洲。公司在多伦多证券交易所和纽约证券交易所上市的股票代码为“BB”。欲了解更多信息，请访问 www.BlackBerry.com ，并在LinkedIn, Twitter 和 Facebook上关注BlackBerry.
+　　BlackBerry and related trademarks, names and logos are the property of BlackBerry Limited and are registered and/or used in the U.S. and countries around the world. All other marks are the property of their respective owners. BlackBerry is not responsible for any third-party products or services.

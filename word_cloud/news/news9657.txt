@@ -1,0 +1,24 @@
+
+
+
+版权声明：本文版权为网易汽车所有，转载请注明出处。
+
+
+
+网易汽车7月19日报道 日前，2019款奥迪TT系列官图发布，新车整体造型更加动感，内饰继续延续虚拟驾驶舱概念，动力方面则基本保持不变。
+
+↓官方视频——《诱惑》（内有金发美女咬嘴唇）
+	
+	#end<a href="http://product.auto.163.com/series/16319.html#LT4001" title="大众Tex">Tex</a>t .video-info a{text-decoration:none;color: #000;}
+	#endText .video-info a:hover{color:#d34747;}
+	#endText .video-list li{overflow:hidden;float: left; list-style:none; width: 132px;height: 118px; position: relative;margin:8px 3px 0px 0px;}
+	#entText .video-list a,#endText .video-list a:visited{text-decoration:none;color:#fff;}
+	#endText .video-list .overlay{text-align: left; padding: 0px 6px; background-color: #313131; font-size: 12px; width: 120px; position: absolute; bottom: 0px; left: 0px; height: 26px; line-height: 26px; overflow: hidden;color: #fff; }
+	#endText .video-list .on{border-bottom: 8px solid #<a href="http://product.auto.163.com/series/2080.html">c4</a>282b;}
+	#endText .video-list .play{width: 20px; height: 20px; background:url(http://img1.cache.netease.com/video/img14/zhuzhan/play.png);position: absolute;right: 12px; top: 62px;opacity: 0.7; color:#fff;filter:alpha(opacity=70); _background: none; _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png"); }
+	
+	#endText .video-list a:hover .play{opacity: 1;filter:alpha(opacity=100);_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png");}
+	
+	
+新车信息：
+1.外观采用三维单框散热器格栅,侧进气口尺寸加宽,可选装S系列套件,包括钛黑色散热器格栅等，同时车身高度降低10mm；2.车身长度为4190mm，轴距为2510mm,标配17英寸轮圈,提供最大20英寸轮圈可选,新增加宇宙蓝、脉冲橙和涡轮蓝三种颜色；3.敞篷车型采用软顶结构，提供黑色或灰色两种方案,重量为39千克,在车速不高于50km/h的情况下可10秒内打开和关闭顶篷；4.内饰和现款车型基本一致,飞翼式仪表板和带有集成控制装置的圆形通风口都是经典延续,带有集成头枕的运动型座椅是标配；5.配备12.3英寸全液晶仪表营造奥迪虚拟驾驶舱,快速LTE连接在线服务,Coupe车型标准容积305升,Roadster车型标准容积280升；6.继续搭载1.8T和2.0T发动机，最大功率分别为180马力和230马力,峰值扭矩分别为280N·m和370N·m，匹配7速双离合变速箱；7.将于2018年第四季度在德国先期上市，9月底开始接受预订，Coupe起步价约为35000欧元，Roadster起步价约为37500欧元。↓新款TT Coupe图集↓新款TT Roadster图集

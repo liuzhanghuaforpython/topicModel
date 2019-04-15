@@ -1,0 +1,13 @@
+版权声明：本文版权为网易汽车所有，转载请注明出处。网易汽车8月24日报道 日前，在2018圆石滩车展上，宝马正式发布了全新一代Z4车型（代号G29），在发布会现场全新BMW Z4 M40i惊艳四方。新车采用软顶敞篷，定位于双座跑车，并配备BMW M Performance套件，搭载3.0T直列六缸发动机(250kW)，0-100km/h仅需4.6秒。↑全新Z4首发（图片来源BMWsky宝马会）↑↓图片不过瘾？那就看视频~
+	
+	#endText .video-info a{text-decoration:none;color: #000;}
+	#endText .video-info a:hover{color:#d34747;}
+	#endText .video-list li{overflow:hidden;float: left; list-style:none; width: 132px;height: 118px; position: relative;margin:8px 3px 0px 0px;}
+	#entText .video-list a,#endText .video-list a:visited{text-decoration:none;color:#fff;}
+	#endText .video-list .overlay{text-align: left; padding: 0px 6px; background-color: #313131; font-size: 12px; width: 120px; position: absolute; bottom: 0px; left: 0px; height: 26px; line-height: 26px; overflow: hidden;color: #fff; }
+	#endText .video-list .on{border-bottom: 8px solid #c4282b;}
+	#endText .video-list .play{width: 20px; height: 20px; background:url(http://img1.cache.netease.com/video/img14/zhuzhan/play.png);position: absolute;right: 12px; top: 62px;opacity: 0.7; color:#fff;filter:alpha(opacity=70); _background: none; _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png"); }
+	
+	#endText .video-list a:hover .play{opacity: 1;filter:alpha(opacity=100);_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png");}
+	
+	“Ζ”宝马Z系列历史简述：·宝马旗下跑车的代表：不仅传承宝马豪华，还诠释出速度与激情。·宝马Z1（1988-1991）：Z1采用前中置发动机布局，由宝马旗下的独立研发公司——BMW Technik GmbH研发设计。·宝马Z3（1995-2002）：在美国南卡罗来纳州斯巴达堡的新工厂打造，集安全、动力、舒适、运动性于一身。·宝马Z8（2000-2003）：短暂的辉煌，复古的设计；吸收上世纪50年代宝马507的设计元素，并采用大量新材料。·宝马Z4（2002至今）：2002年在美国首发，2003年推向全球市场，也是在国内见过的最多一代宝马Z系列车型。对了，还记得去年的圆石滩车展吗？当时全新BMW Z4概念车发布，而今年则迎来了量产版车型，全新BMW Z4 M40i。【全新BMW Z4】关键词1.迷人的50:50跑车比例2.冷冻橙色金属车身油漆3.配备BMW M Performance套件4.仅需4.6秒即可从静止冲刺至100km/h5.全新的豪华内饰设计与配置6.搭3.0T、M Sport差速器、动态悬挂【全新BMW Z4】详情1.前脸设计相对于现有宝马车型有很大颠覆。最受关注的“双肾”格栅也有了全新样式，在其内部由原本的直瀑式条辐改为了点阵式。2.天使眼造型更加锐利，灯腔内部采用了全新布局，LED日行灯被上下放置，前杠下方进气口尺寸也有显著增加，战斗气息浓厚。3.侧身线条十分紧致，不但延续了Z系列跑车的50:50车身比例，和双座敞篷式车身结构；还在通过上下双腰线的设计呈现出力量感和速度感。4.尾部线条锐利，LED尾灯造型很是修长，后保险杠造型宛如流光炫影，包裹着镀铬双边两出排气以及散热导流孔，在尾部上方微微翘起的一体式扰流板。5.内饰围绕式设计，在驾驶员一侧，你会感受到你是中心，所有东西都想你靠拢；而在乘客一侧，Alcantara材质才是主题，展现了尊贵奢华的一面。6.全新的平底四辐式方向盘、多边形全液晶仪表等线条都进化得更为锋利，鸡腿挡杆也换成了全新样式，配合全新的iDrive控制区，整体质感和科技感也再次升华。7.将搭载B48系列2.0T（低/高功率）和B58系列3.0T发动机，而入门版的全新Z4 sDrive20i车型也具有145kW的最大功率和320N·m的最大扭矩，匹配6MT和8AT变速箱。编辑点评：宝马Z系列是旗下的跑车代表，最早要追溯到上世纪30年代，在近80年的发展中，Z系列历经起伏，从横扫赛场的328，到过于前卫的Z1，再到平庸的Z3，和复古昂贵的Z8……直到Z4的问世，宝马才终于奠定了双座敞篷跑车的形象。在Z4身上，TA通过内在美赢得人们的芳心，优质的机械调教和电子化设备，带来前所未有的动态操控和运动基因。而全新Z4概念车则挑战了我们的“视觉、触觉”，从设计上的颠覆正应验了那句名言：“本来可以靠内涵，却偏偏要卖颜值”；但这种变革正是宝马所需要的。

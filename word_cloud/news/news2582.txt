@@ -1,0 +1,35 @@
+
+
+
+版权声明：本文版权为网易汽车所有，转载请注明出处。
+
+
+
+网易汽车7月26日报道 今晚合众新能源中期战略发布暨哪吒汽车首秀发布会在江南水乡乌镇正式举行，除正式公布其中期战略规划，哪吒N01和概念车Eureka 01也同时首发亮相。哪吒01Eureka 01概念车
+
+合众新能源成立于2014年10月，是国内第13家获得新能源汽车牌照的汽车企业，总投资额已经超过25亿元人民币，目前最大股东华夏幸福董事长王学文100%控股的拉萨知行创新科技有限公司，今年5月合众新能源位于浙江桐乡的制造基地正式竣工，一期规划年产能为8万台，在研发领域目前已经拥有上海、嘉兴和桐乡三个研发中心，并在意大利建有造型设计中心，德国建有工程与技术中心、美国硅谷建有智能驾驶研发中心，具备完整的独立研发能力，在此前举行的哪吒汽车首批“城市合伙人”签约仪式上，合众新能源还获得了与百家城市合伙人签订的超过5万台的新车订单。
+	
+	#endText .video-info a{text-decoration:none;color: #000;}
+	#endText .video-info a:hover{color:#d34747;}
+	#endText .video-list li{overflow:hidden;float: left; list-style:none; width: 132px;height: 118px; position: relative;margin:8px 3px 0px 0px;}
+	#entText .video-list a,#endText .video-list a:visited{text-decoration:none;color:#fff;}
+	#endText .video-list .overlay{text-align: left; padding: 0px 6px; background-color: #313131; font-size: 12px; width: 120px; position: absolute; bottom: 0px; left: 0px; height: 26px; line-height: 26px; overflow: hidden;color: #fff; }
+	#endText .video-list .on{border-bottom: 8px solid #c4282b;}
+	#endText .video-list .play{width: 20px; height: 20px; background:url(http://img1.cache.netease.com/video/img14/zhuzhan/play.png);position: absolute;right: 12px; top: 62px;opacity: 0.7; color:#fff;filter:alpha(opacity=70); _background: none; _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png"); }
+	
+	#endText .video-list a:hover .play{opacity: 1;filter:alpha(opacity=100);_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png");}
+	
+	
+
+未来三年规划定名为阿基米德计划1.0版，寓意是以技术为支点撬动市场产品规划，产品层面三年内将陆续推出三款产品，聚焦20万元以内家用车市场，最大续航里程将有望突破600公里，百公里耗电量将为10度。研发PIVOT智能车载系统，到2020年单车数据量达到50T，此外还将分设产品渠道服务，建立500个储能系统，为5000万用户提供大数据服务，三年销量目标超过10万台，达到行业前十/新创企业前三位置。
+
+
+
+·在合众E-TAKE概念车基础上打造而来。新车整体造型圆润饱满，车身姿态较为稳重。前脸采用分层设计，封闭前格栅为黑色钢琴漆材质，并将充电接口隐藏其中。
+·车身侧面采用下压式设计，车顶为时下流行的悬浮式车顶。尺寸方面，新车长宽高分别为3872/1648/1611mm，轴距为2370mm，定位为小型纯电动SUV。·内饰方面，哪吒N01同样走简约风格路线，中控台为T字型设计，10英寸中控大屏和旋钮式换挡装置均十分抢眼。
+
+·配置方面，新车搭载有LED日间行车灯、行李架、前雾灯、电动折叠后视镜和360°全景摄像头等功能。
+·哪吒N01在60km/h等速工况下续航里程为380km，快充可实现30分钟内充满80%电量。根据规划，哪吒汽车将保持每年不少于1款新车的发布速度。
+
+·外观方面，Eureka 01将年轻消费群体推崇的个性美和力量感进行有效结合，采用大块面元素和鲜明的色彩对比，新车前脸以横向开放线条为主，前大灯充满了科技感。·Eureka 01内饰采用“轻薄”设计理念，对传统方向盘、仪表盘和中控台的设计思路进行了完全颠覆。除造型方面具备创新性外，新车的智联软体还可实现在线迭代。
+·后排座椅则体现了家居空间的设计理念，形似沙发的造型则最大化地确保了乘客的自由感和舒适感。
